@@ -26,7 +26,5 @@
     user = azhhchen
 [init]
 	defaultBranch = main
-[hub]
-    protocol = https
 [push]
     default = simple

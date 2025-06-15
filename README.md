@@ -27,14 +27,14 @@ Here's a sneak peek into my curated setup:
 
 1. **Clone the repo**
    ```sh
-   git clone --recursive https://github.com/azhhchen/.dotfiles.git ~/.dotfiles
+   git clone --recursive https://codeberg.org/hhschen/dotfiles.git <TARGET>
    ```
 
 2. **Install dependencies**
 
 3. **Link configuration**
 
-   Use `chezmoi`, or `insdot.sh` (review it before running!). Whatever suits your flow.
+   Use `insdot.sh` (review it before running!). Whatever suits your flow.
 
 4. Done. You're all set. Now go write some awesome code. 🚀
 

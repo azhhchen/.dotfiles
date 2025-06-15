@@ -1,6 +1,7 @@
 [user]
 	name = Hung Hsun Chen
 	email = hhschen@noreply.codeberg.org
+	signingkey = 61277AB665DA5A358454EB4F244F874FFCDE5E2E
 [alias]
     aa = add --all
     ap = add --patch
